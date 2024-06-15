@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Projects
-permalink: /projects/
+permalink: /Projects/
 author_profile: true
 ---
 
