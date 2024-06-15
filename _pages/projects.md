@@ -1,5 +1,5 @@
 ---
-#title: Leading
+title: Leading
 permalink: /Projects/
 author_profile: true
 ---
