@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Publications
 permalink: /Publications/
 author_profile: true
 ---
