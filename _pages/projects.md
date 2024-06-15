@@ -1,5 +1,5 @@
 ---
-<!--title: Overview-->
+#title: Overview
 permalink: /Projects/
 author_profile: true
 ---
