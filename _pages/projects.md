@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Projects
-permalink: /projects/ <!--这是单独的另一个页面-->
+permalink: /projects/
 author_profile: true
 redirect_from: 
-  - /projects.html
+  - /projects
 ---
 
 # Projects
