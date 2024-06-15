@@ -27,8 +27,8 @@ author:
   bio              : "Assistant Professor"
   location         : "Guangzhou, China"
   employer         : "Hong Kong University of Science and Technology(GZ)"
-  uri              : # URL
-  email            : "ruitingzuo@hkust-gz.edu.cn" 
+  uri              : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3459429"
+  email            : #"ruitingzuo@hkust-gz.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : "ruitingzuo@hkust-gz.edu.cn"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
