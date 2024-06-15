@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Contracting in Asset Management Under the InvestorPartner-Manager Relationship"
 collection: publications
-permalink: https://pubsonline.informs.org/doi/10.1287/opre.2021.0031
+permalink: https://pubsonline.informs.org/
 excerpt: 'Keppo, Jussi; Touzi, Nizar; Zuo, Ruiting'
 date: February-2024
 venue: 'Operation Research'
