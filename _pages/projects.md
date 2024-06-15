@@ -4,19 +4,13 @@ permalink: /Projects/
 author_profile: true
 ---
 
-# Projects
+# Leading
+## 企业ESG投资中的道德风险与激励设计
+- 广州市科技局, 2024-
 
-This page showcases a selection of projects I have been involved in. For more details, please visit the respective links.
+## 环境与资源配置：运营与金融工具在低碳经济上的应用
+- 广州市科技局, 2023-
 
-## Featured Projects
-
-- [Project Alpha](https://example.com/project-alpha) - A brief description of Project Alpha.
-- [Project Beta](https://example.com/project-beta) - An overview of Project Beta.
-- [Project Gamma](https://example.com/project-gamma) - Details about Project Gamma.
-
-## Other Projects
-
-- [Project Delta](https://example.com/project-delta)
-- [Project Epsilon](https://example.com/project-epsilon)
-
-If you have any questions or would like to collaborate on a project, feel free to [contact me](/contact/).
+# Participating
+## 广州市金融科技前沿研究重点实验室
+- 广州市科技局, 2024-
