@@ -1,11 +1,8 @@
 ---
-#title: Overview
+#title: Leading
 permalink: /Projects/
 author_profile: true
 ---
-
-Leading
-======
 <style>
   .deep-blue {
     color: #87CEFA
