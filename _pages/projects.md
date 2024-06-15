@@ -8,7 +8,8 @@ Leading
 ======
 <style>
   .deep-blue {
-    color: #ADD8E6; /* 蓝色 */
+    color: #87CEFA
+; /* 蓝色 */
   }
 </style>
 <h2 class="deep-blue">企业ESG投资中的道德风险与激励设计</h2>  
