@@ -1,13 +1,25 @@
 ---
 layout: default
 title: Projects
-permalink: /Projects/
+permalink: /projects/ <!--这是单独的另一个页面-->
+author_profile: true
+redirect_from: 
+  - /projects.html
 ---
 
 # Projects
 
-Here is a list of projects I've worked on:
+This page showcases a selection of projects I have been involved in. For more details, please visit the respective links.
 
-- [Project 1](https://example.com/project1)
-- [Project 2](https://example.com/project2)
-- [Project 3](https://example.com/project3)
+## Featured Projects
+
+- [Project Alpha](https://example.com/project-alpha) - A brief description of Project Alpha.
+- [Project Beta](https://example.com/project-beta) - An overview of Project Beta.
+- [Project Gamma](https://example.com/project-gamma) - Details about Project Gamma.
+
+## Other Projects
+
+- [Project Delta](https://example.com/project-delta)
+- [Project Epsilon](https://example.com/project-epsilon)
+
+If you have any questions or would like to collaborate on a project, feel free to [contact me](/contact/).
