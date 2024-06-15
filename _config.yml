@@ -27,7 +27,7 @@ author:
   bio              : "Assistant Professor"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
-  uri              : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3459429"
+  uri              : #"https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3459429"
   email            : "ruitingzuo@hkust-gz.edu.cn" 
 
   # Academic websites
@@ -60,7 +60,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : "ruitingzuo@hkust-gz.edu.cn"
+  medium           : #"ruitingzuo@hkust-gz.edu.cn"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -255,7 +255,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      comments: true
+      #comments: true
   # _portfolio
   - scope:
       path: ""
@@ -273,7 +273,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _Projects
+  - scope:
+      path: ""
+      type: Projects
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
