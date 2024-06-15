@@ -252,10 +252,10 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
-      #comments: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -278,7 +278,7 @@ defaults:
       path: ""
       type: Projects
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
