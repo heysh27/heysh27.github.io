@@ -4,8 +4,7 @@ permalink: /Publication/
 author_profile: true
 ---
 
-## Overview
-
+## Publications
 Here is an example of how to apply a lighter shade of blue to text in Markdown using HTML and CSS.
 
 <style>
