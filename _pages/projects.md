@@ -5,7 +5,7 @@ author_profile: true
 ---
 <style>
   .deep-blue {
-    color: #87CEFA
+    color: #000080
 ; /* 蓝色 */
   }
 </style>
