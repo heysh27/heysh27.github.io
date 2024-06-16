@@ -24,7 +24,9 @@ author:
   avatar           : "professor.png"
   name             : "Ruiting Zuo"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor\n HKUST(GZ)"
+  bio              : >
+                    Assistant Professor 
+                    HKUST(GZ)
   location         : "W1 L3 314"
   employer         : #"HKUST(GZ)"
   uri              : #"https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3459429"
