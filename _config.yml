@@ -24,8 +24,8 @@ author:
   avatar           : "professor.png"
   name             : "Ruiting Zuo"
   pronouns         :  #example: "she/her"  
-  bio              : |-
-                     Assistant Professor   
+  bio              : >  
+                     Assistant Professor  
                      HKUST(GZ)
   location         : "W1-L3-314"
   employer         : #"HKUST(GZ)"
