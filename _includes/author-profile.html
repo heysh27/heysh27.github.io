@@ -59,6 +59,10 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
+      <!--这里添加ssrn的链接，class变为通用图标：fas fa-graduation-cap-->
+      {% if author.SSRN %}
+        <li><a href="{{ author.SSRN }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i>SSRN</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
