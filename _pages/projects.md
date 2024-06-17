@@ -9,7 +9,7 @@ author_profile: true
     line-height: 1.5; /* 调整行距，数字越大，行距越大 */
   }
   p {
-    margin: 0 0 10px; /* 上边距0，右边距0，下边距10px，左边距0 */
+    margin: 2.5px 0 2.5px; /* 上边距0，右边距0，下边距5px，左边距0 */
   }
 </style>
 
@@ -21,6 +21,8 @@ author_profile: true
 <p>广州市科技局</p>
 <p>2023-</p>
 
+Participating
+=====
 <p class="deep-blue">广州市金融科技前沿研究重点实验室</p>
 <p>广州市科技局</p>
 <p>2024-</p>
