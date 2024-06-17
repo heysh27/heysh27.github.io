@@ -10,8 +10,8 @@ author_profile: true
   }
     /* 调整所有h1和h2标签的间距 */
   h1 {
-    margin-top: 5px; /* 调整上边距 */
-    margin-bottom: 5px; /* 调整下边距 */
+    margin-top: 2px; /* 调整上边距 */
+    margin-bottom: 2px; /* 调整下边距 */
   }
 </style>
 
