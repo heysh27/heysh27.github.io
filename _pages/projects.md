@@ -6,7 +6,7 @@ author_profile: true
 <style>
   .deep-blue {
     color: #4BAAC6; /* 蓝色 */
-    line-height: 1.5; /* 调整行距，数字越大，行距越大 */
+    line-height: 1; /* 调整行距，数字越大，行距越大 */
   }
   p {
     margin: 0 0 5px; /* 上边距0，右边距0，下边距5px，左边距0 */
