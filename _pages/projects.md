@@ -15,7 +15,7 @@ author_profile: true
   }
 </style>
 
-<h1>Leading</h1>
+# Leading
 <h2 class="deep-blue">企业ESG投资中的道德风险与激励设计</h2>
 广州市科技局  
 2024-
@@ -24,7 +24,7 @@ author_profile: true
 广州市科技局  
 2023-
 
-<h1>Participating</h1>
+# Participating
 <h2 class="deep-blue">广州市金融科技前沿研究重点实验室</h2>
 广州市科技局  
 2024-
