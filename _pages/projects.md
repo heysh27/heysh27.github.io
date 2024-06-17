@@ -1,5 +1,5 @@
 ---
-title: Leading
+#title: 
 permalink: /Projects/
 author_profile: true
 ---
@@ -9,10 +9,12 @@ author_profile: true
     line-height: 1.5; /* 调整行距，数字越大，行距越大 */
   }
   p {
-    margin: 2.5px 0 2.5px; /* 上边距0，右边距0，下边距5px，左边距0 */
+    margin: 0 0 5px; /* 上边距0，右边距0，下边距5px，左边距0 */
   }
 </style>
 
+Leading
+=====
 <p class="deep-blue">企业ESG投资中的道德风险与激励设计</p>
 <p>广州市科技局</p>
 <p>2024-</p>
