@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Ruiting ZUO joined Fintech Thrust, the Society Hub, the Hong Kong University of Sicence and Technology as an Assistant Professor in Fall 2022. She obtained a Ph.D. degree in Analytics & Operations from the National University of Singapore.  
+
 Her research interests cover Finance-Operations Interface, E-commerce and marketplace analytics, Operations-Marketing Interface, Game theory, optimal control, data-driven decision making, etc. 
 
 Research Interests
